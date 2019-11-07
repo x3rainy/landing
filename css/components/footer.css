@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+  padding: 30px;
+  background: rgb(39,160,162);
+  background: linear-gradient(0deg, rgba(39,160,162,1) 6%, rgba(236,190,92,1) 80%);
+}
+
+.footer a {
+  font-size: 30px;
+  color: #4266dc;
+}
+
+.footer a:hover {
+  color: blue;
+}
+
+.footer p {
+  opacity: 0.7;
+}
+
