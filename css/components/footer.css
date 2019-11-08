@@ -1,8 +1,7 @@
 .footer {
   text-align: center;
   padding: 30px;
-  background: rgb(39,160,162);
-  background: linear-gradient(0deg, rgba(39,160,162,1) 6%, rgba(236,190,92,1) 80%);
+  background: linear-gradient(0deg, rgb(125, 221, 222) 6%, rgb(218, 206, 180) 80%);
 }
 
 .footer a {
